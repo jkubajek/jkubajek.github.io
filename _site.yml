@@ -1,5 +1,5 @@
 name: "Jakub Kubajek"
-base_url: https://jkubajek.github.io
+base_url: https://jkubajek.github.io/index.html
 google_analytics: "UA-141513256-2"
 output_dir: "docs"
 exclude: ["*.txt", "*.csv", "*.xlsx", "*.RData", "*.R", "*.xls"] 
