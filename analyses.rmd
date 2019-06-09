@@ -1,0 +1,7 @@
+---
+title: "Analyses"
+---
+
+In my spare time I focus on econometrics and predictive modeling. Recently, I have analysed the results of the European parliamentary elections in Poland. I published the results of my analysis on [GitHub pages](https://jkubajek.github.io/EP2019/index) (the analysis is in polish). 
+
+Previously, I built a predictive model on Lending Club dataset. The full code is on my [GitHub](https://github.com/jkubajek/Lending_Club) and the summary on [GitHub pages](https://jkubajek.github.io/Lending_Club/index).

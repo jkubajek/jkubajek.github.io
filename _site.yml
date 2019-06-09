@@ -1,0 +1,26 @@
+name: "Jakub Kubajek"
+base_url: https://jkubajek.github.io
+google_analytics: "UA-141513256-2"
+output_dir: "docs"
+exclude: ["*.txt", "*.csv", "*.xlsx", "*.RData", "*.R", "*.xls"] 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      in_header: GA_script.html
+    css: style.css
+navbar:
+  title: "Jakub Kubajek"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Analyses"
+      href: analyses.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:j.kubajek@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/jkubajek
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jakub-kubajek-869945158/

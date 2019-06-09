@@ -1,0 +1,7 @@
+---
+title: "Research"
+---
+
+The most profund research I made so far was about speculative bubble on the cryptocurrency market. For my master thesis I developed a multi-agent model that explains the mechanism of its creation. In the model, agents were modelled as nodes of the semi-random graphand use multiobjective optimisation (PSO) to make decisions. The full text of this thesis can be found on [ResearchGate](https://www.researchgate.net/publication/331024979_Agent-based_analysis_of_the_cryptocurrency_speculative_bubble_Master_Thesis). 
+
+During my work in The Chancellery of the Prime Minister, I had a chance to co-author a [paper](https://link.springer.com/article/10.1007%2Fs11356-019-04781-3) about the impact of air pollution on hospital admissions in Poland. 
