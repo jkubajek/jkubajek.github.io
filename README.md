@@ -1,2 +1,2 @@
 # jkubajek.github.io
-This repository contains my personal website.
+The main page of my personal website is [here](https://jkubajek.github.io/index).
